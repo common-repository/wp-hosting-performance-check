@@ -1,0 +1,126 @@
+   
+
+    .wphpc_logo_wrapper {
+  background-color: #ffffff;
+  box-shadow: 0 0 3px 0 #cccccc;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  padding: 15px;
+  text-align: center;
+}
+
+.wphpc_logo_wrapper > h3 {
+  border-bottom: 1px dashed #cccccc;
+  border-top: 1px dashed #cccccc;
+  margin-top: 0;
+  padding: 15px;
+}
+
+.wphpc_logo_wrapper > a {
+  background-color: #0073aa;
+  color: #ffffff;
+  display: inline-block;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+.wphpc_table_tr > td {
+  background-color: #ffffff;
+  box-shadow: 0 0 3px 0 #cccccc;
+  margin-right: 2%;
+  padding: 0 0 5px;
+  text-align: center;
+  width: 48% !important;
+  vertical-align: top;
+}
+
+.wphpc_table_tr h4 {
+  background-color: #1fa7e1;
+  color: #ffffff;
+  margin: 0 0 5px;
+  padding: 15px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.wphpc_table_tr p {
+  border-bottom: 1px solid #ececec;
+  margin-bottom: 0;
+}
+
+.rgraph_domtext_wrapper.wphpc_canvas1 {
+      background-color: #ffffff;
+  border-top: 3px solid #1fa7e1;
+  box-shadow: 0 0 3px 0 #cccccc;
+  margin-bottom: 15px;
+  padding: 10px;
+}
+
+.wphpc_url_table h1 {
+  background-color: #ffffff;
+  border-bottom: 1px dashed #cccccc;
+  box-sizing: border-box;
+  float: left;
+  font-size: 20px;
+  margin: 0;
+  padding: 15px;
+  text-align: center;
+  width: 99.5%;
+}
+
+.wphpc_url_table .wp-list-table.widefat.fixed.striped.posts {
+  border-top: medium none;
+  width: 99.5%;
+}
+
+.wphpc_url_table thead {
+  background-color: #1fa7e1;
+  color: #ffffff !important;
+  padding: 20px;
+}
+
+.wphpc_url_table .alternate, .striped > tbody > *:nth-child(2n+1), ul.striped > *:nth-child(2n+1) {
+  background-color: #f9f9f9;
+  border-bottom: 1px solid #cccccc;
+  border-top: 1px solid #cccccc;
+}
+
+.wphpc_url_table tbody tr:nth-child(2n+2) td {
+  color: #1fa7e1;
+}
+
+.wphpc_url_table tbody tr:nth-child(2n+2) td {
+  color: #1fa7e1;
+  text-align: left;
+}
+
+.wphpc_url_table thead td {
+  color: #ffffff !important;
+  font-weight: 800;
+  text-align: center;
+}
+
+.wphpc_url_table thead td {
+  color: #ffffff !important;
+  font-weight: 800;
+  padding: 20px;
+  text-align: center;
+}
+
+#wphpc_dashboard_widget.postbox {
+  float: left;
+  height: 100%;
+  width: 100%;
+}
+
+#wphpc_dash_container > div#wphpc_dash_left {
+  float: left !important;
+  text-align: center;
+  width: 100% !important;
+}
+
+#wphpc_dash_container > div#wphpc_dash_right {
+  float: left !important;
+  text-align: center;
+  width: 100% !important;
+}
